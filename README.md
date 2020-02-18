@@ -1,4 +1,5 @@
 # cost-explorer
+[![Build Status](https://travis-ci.org/arbazsiddiqui/cost-explorer.svg?branch=master)](https://travis-ci.org/arbazsiddiqui/cost-explorer)
 
 ### Getting Started
 
