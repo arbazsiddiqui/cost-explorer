@@ -1,6 +1,8 @@
 # cost-explorer
 [![Build Status](https://travis-ci.org/arbazsiddiqui/cost-explorer.svg?branch=master)](https://travis-ci.org/arbazsiddiqui/cost-explorer)
 
+An API to fetch costs using dynamic filters. Built on express and mysql.
+
 ### Getting Started
 
 1. Perform a clone of this repo `git clone https://github.com/arbazsiddiqui/cost-explorer`
