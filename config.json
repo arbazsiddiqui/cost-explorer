@@ -16,7 +16,7 @@
   "test" : {
     "dbName" : "costExplorerTest",
     "dbUsername" : "root",
-    "dbPassword" : "password",
+    "dbPassword" : null,
     "host" : "localhost",
     "dialect" : "mysql",
     "port" : 8080,
