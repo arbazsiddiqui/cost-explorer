@@ -1,0 +1,30 @@
+{
+  "production" : {
+    "dbName" : "costExplorer",
+    "dbUsername" : "root",
+    "dbPassword" : "password",
+    "host" : "localhost",
+    "dialect" : "mysql",
+    "port" : 8080,
+    "dbPool" : {
+      "max": 10,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  },
+  "test" : {
+    "dbName" : "costExplorerTest",
+    "dbUsername" : "root",
+    "dbPassword" : "password",
+    "host" : "localhost",
+    "dialect" : "mysql",
+    "port" : 8080,
+    "dbPool" : {
+      "max": 10,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  }
+}
